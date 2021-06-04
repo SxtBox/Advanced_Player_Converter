@@ -3,6 +3,10 @@ Multi Player Structure Builder
 
 Hosted API https://paidcodes.albdroid.al/Players/Advanced_Player_Converter
 
+HOW TO USE:
+
+?stream={ANY MEDIA URL}&title={YOUR TITLE}&pltype={TYPE FROM API}
+
 zpl
 ![Logo](https://raw.githubusercontent.com/SxtBox/Advanced_Player_Converter/main/Screenshots/zpl.png?raw=true)
 
