@@ -5,6 +5,10 @@ Hosted API https://paidcodes.albdroid.al/Players/Advanced_Player_Converter
 
 HOW TO USE:
 
+required ?stream={URL} AND pltype={TYPE}
+
+if title is blank return to Untitled Stream
+
 ?stream={ANY MEDIA URL}&title={YOUR TITLE}&pltype={TYPE FROM API}
 
 EX: https://paidcodes.albdroid.al/Players/Advanced_Player_Converter/?stream=https://kodi.al/app_stream_tester/E-Type_-_Here_I_Go_Again.mp4&title=E-Type - Here i Go Again&pltype=plyr
