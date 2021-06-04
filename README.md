@@ -7,6 +7,8 @@ HOW TO USE:
 
 ?stream={ANY MEDIA URL}&title={YOUR TITLE}&pltype={TYPE FROM API}
 
+EX: https://paidcodes.albdroid.al/Players/Advanced_Player_Converter/?stream=https://kodi.al/app_stream_tester/E-Type_-_Here_I_Go_Again.mp4&title=E-Type - Here i Go Again&pltype=plyr
+
 zpl
 ![Logo](https://raw.githubusercontent.com/SxtBox/Advanced_Player_Converter/main/Screenshots/zpl.png?raw=true)
 
