@@ -9,7 +9,7 @@ HOW TO USE:
 
 EX: https://paidcodes.albdroid.al/Players/Advanced_Player_Converter/?stream=https://kodi.al/app_stream_tester/E-Type_-_Here_I_Go_Again.mp4&title=E-Type - Here i Go Again&pltype=plyr
 
-Copy/Paste link in new tab with spaces from https tp type=plyr
+Copy/Paste link in new tab with spaces from https to type=plyr
 
 zpl
 ![Logo](https://raw.githubusercontent.com/SxtBox/Advanced_Player_Converter/main/Screenshots/zpl.png?raw=true)
